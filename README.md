@@ -8,7 +8,7 @@
 > Cheers!  
 > Gabriel & Vanessa"
 
-Todos os créditos ao [Gabriel](https://github.com/gabrielfroes) e a [Vanessa](https://github.com/vweberfroes), que disponibilizaram o código e uma ótima aula disponível no canal; [Código Fonte TV.](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
+Todos os créditos ao [Gabriel](https://github.com/gabrielfroes) e a [Vanessa](https://github.com/vweberfroes), que disponibilizaram o código junto com uma excelente aula, disponível no canal [Código Fonte TV.](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
 
 Link do vídeo; [Programamos um GAME com JavaScript Puro em 28 minutos // Mão no Código #10](https://www.youtube.com/watch?v=M258B1b_pMs&ab_channel=C%C3%B3digoFonteTV)
 
